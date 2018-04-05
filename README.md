@@ -8,7 +8,7 @@
 
 ## Quickly crawl the information (e.g. followers, tags, mentions, date, etc...) of an instagram profile. No login required
 
-![logo](http://diylogodesigns.com/blog/wp-content/uploads/2016/05/instagram-Logo-PNG-Transparent-Background-download.png)
+![logo](http://www.iconarchive.com/download/i80462/uiconstock/socialmedia/Instagram.ico)
 Automation Script for crawling information from multiple instagram profile,
 like the number of posts, followers, tags and mentions of the posts.
 Inspired by [this project](https://github.com/timgrossmann/instagram-profilecrawl) but made in nodeJS and more complete.
